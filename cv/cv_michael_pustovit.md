@@ -1,107 +1,134 @@
-# Michael Pustovit
+- # Mykhailo Pustovit
 
-**Most recent position:** Lead Mobile Engineer at INTELITY
+  **Most recent position:** Team Lead of Payments Mobile at WIX
 
-## Brief overview
+  ## Brief overview
 
-Hello! My name is Michael and I'm a software engineer. I started my professional programming career in 2012 (in the fifth year of Computer science faculty at Kyiv Polytechnic University) as a **Java developer**. But shortly after the start, I've switched to the **Android** world. I have been working on quite a few applications for the app stores and was involved in **full-cycle development**- from the initial estimation to the release/support phase. Most of the time I was working as an **Android developer** (Kotlin/Java), but also I have some experience with **Swift** (SDK creation and maintaining), **ReactNative**, **team processes facilitation** (played scrum master and team lead roles) and **extreme programming practices** (TDD, CI, pair programming).
+  Hello! My name is Mykhailo (Misha), and I'm a software engineer. I began my professional programming career in 2012, during my fifth year at the Computer Science faculty of Kyiv Polytechnic University, initially as **a Java developer**. Soon after, I transitioned to **Android development**. For the last 3 years, I've been working at **Wix**, focusing on **React Native** and **people management** as a **team lead**.
 
-## Contacts
+  I have contributed to a variety of applications for app stores and been involved in **full-cycle development** - from initial estimation to release and support. I have extensive experience as an **Android** (Kotlin/Java) and **React Native** (JS/TS) developer. Additionally, I have experience with **Swift** (SDK creation and maintenance, minor UI features), **team process facilitation** (Scrum Master and Team Lead roles), and **extreme programming practices** (TDD, CI, pair programming).
 
-**Email:** pustovitm@gmail.com	**Skype:** pustovitmiha	**GitHub repo**: https://github.com/lampapos
+  ## Contacts
 
-**Mobile phone:** (+380) 68 399 93 18
+  **Email:** pustovitm@gmail.com  **Telegram**: +380683999318 **GitHub repo**: https://github.com/lampapos
 
-## Areas of Expertise
-- Mobile application development
-  - Android (Kotlin/Java)
-- SDK/libraries development and support
-  - Android (Kotlin/Java)
-  - iOS (Swift)
-  - ReactNative
-- Dev team work process facilitation
-  -  Estimation and planning
-  -  Played a scrum master role
-  -  Played a team lead role
-  -  Extreme programming practices (TDD, pair programming, CI/DI)
-- Tech support/guidance of 3rd party dev teams
+  **Mobile phone:** (+380) 68 399 93 18
 
-## Experience
-- **Lead Mobile Engeneer** at **INTELITY** September 2018 - May 2020
-- **Senior Android developer** at **KEYPR** Jun 2017 - September 2018
-- **Android developer** at **Stanfy** February 2012 - April 2017
-- **Junior Java Developer** at **NCube Ltd** August 2011 - January 2012
+  ## Areas of Expertise
+  - Mobile application (SDK/libraries) development
+    - Android (Kotlin/Java)
+    - React Native (JS/TS)
+    - iOS (Swift)
+  - Dev team work facilitation
+    -  Communication with product owners
+    -  People management (1-1s, growth plans, etc)
+    -  Estimation and planning
+    -  Had a scrum master role
+    -  Extreme programming practices (TDD, pair programming, CI/DI)
+  - Team Management and Tech guidance of 3rd party development teams
 
-## Projects
-- **INTELITY** [Google Play](https://play.google.com/store/search?q=intelity&c=apps&hl=en) custom application for hotels and door lock solutions. **Challenges:** build CI tools for white-label applications (single code base → multiple applications with different resources)**;** support and maintenance of multiplatform SDK (Android, iOS, ReactNative) for third-party dev teams**;** leading a team of four devs, facilitation of Scrum process
-- **KEYPR** [Google Play](https://play.google.com/store/apps/details?id=com.keypr.android.guestapp&hl=en) complex solution for hospitality. **Challenges:** custom Android firmware (modification of many system components such as System UI, Launcher, default applications (clock, calculator), etc)**;** a set of applications for hotel services: map (shows nearby POI), compendium (replaces printed materials), custom daydream application (that shows hotel ads), etc**;** a custom applications distribution system**;** tools for hardware monitoring and management
-- **NDA** Several projects that can not be disclosured (under **NDA**)
-- **Voicebase** [Google Play](https://play.google.com/store/apps/details?id=com.voicebase&hl=en) a sound recording application. **Challenges:** start a new project from scratch**;** UX prototyping (screens flow)**;** audio recording**;** audio records sync (with a server)**;** all UI and REST client development
-- **Android App "Право Украины"** [Google Play](https://play.google.com/store/apps/details?id=ua.ligazakon): a tablet application with a collection of Ukrainian laws. **Challenges:** big DB with indexes**;** a webview with sophisticated CSS and JS for user interaction**;** custom UI widgets**;** sync of a news feed with an internal app DB
-- **Kinopoisk for Android** Android mobile app for kinopoisk.ru [Google Play](https://play.google.com/store/apps/details?id=ru.kinopoisk). **Challenges:** maintenance of an already created codebase**;** adding new features (new UI widgets and screens)
+  ## Experience
 
-## Dev community
-- **Moderator** at [KyivAndroidDevClub](http://kyivandroid.org.ua/)
-- **Speaker** at
-    - [KyivAndroidDevClub](http://kyivandroid.org.ua/) meetups
-    - [Stanfy MadCode](https://www.facebook.com/MadCodeMeetup/) webinars
-    - [GDG DevFest 2016](https://devfest.gdg.org.ua/speakers/23/)
-    - [Dev at work: Mobile meetup](http://mobile.devatwork.net/)
+  - **Team Lead of Payments Mobile** at **Wix** — Apr 2022 – Present  
+    Leading the mobile payments team and responsible for everything related to payment processes across Wix's family of **React Native applications** for site owners and visitors. This includes handling checkout screens, transaction details, and other payment-related features.  
+    **Apps:** [Google Play](https://play.google.com/store/apps/developer?id=Wix&hl=en), [App Store](https://apps.apple.com/ua/developer/wix-com-inc/id407141669)
 
-## Languages
-- **English** Professional working proficiency
-- **Ukrainian**, **Russian** Native or bilingual proficiency
+  - **Senior Mobile Engineer** at **Wix** - Dec 2020 – Apr 2022  
+    Worked on the **React Native** apps at Wix, focusing on providing services for site owners and visitors. Collaborated on various aspects of mobile app development, including payment processes.
 
-## Education
+  
 
-- National Technical University of Ukraine 'Kyiv Polytechnic Institute.'
-Magister, Computer Science, 2007 - 2013, Graduated with honors
+  - **Lead Mobile Engineer** at **INTELITY** - Sep 2018 - May 2020  
+    Led a team of four developers in creating custom applications for hotels and door lock solutions.  
+    **Achievements:**  
 
-## Personal details
+    - Built CI tools for white-label applications (one code base - multiple apps with different resources)  
+    - Supported and maintained multiplatform SDK (Android, iOS, React Native) for third-party development teams  
+    - Facilitated the Scrum process  
+    **Apps:** [Google Play](https://play.google.com/store/search?q=intelity&c=apps&hl=en)
 
-**Birthday**    April 06, 1990
+    
 
-## Interests
-programming, capoeira, dance, traveling
+  - **Senior Android Developer** at **KEYPR** - Jun 2017 - Sep 2018  
+    Developed complex solutions for the hospitality industry, including custom Android firmware.  
+    **Achievements:**  
 
-## Future Goals
-- Project management (lead and deliver complete products)
-- Expand knowledge in backend development
+    - Modified system components like System UI, Launcher, and default applications  
+    - Developed a set of apps for hotel services: maps, compendiums, custom daydream app for hotel ads  
+    - Created a custom app distribution system and tools for hardware monitoring and management  
+    **Apps:** [Google Play](https://play.google.com/store/apps/details?id=com.keypr.android.guestapp&hl=en)
 
-## Tech skills
+    
 
-- **Main language:** Java/Kotlin
+  - **Android Developer** at **Stanfy** - Feb 2012 - Apr 2017  
+    Worked on several projects, including:  
+    - **Voicebase:** A sound recording app with challenges such as audio recording, sync with server, and complete UI/REST client development.  
+      **App:** [Google Play](https://play.google.com/store/apps/details?id=com.voicebase&hl=en)  
+    - **"Право Украины" (Law of Ukraine):** A tablet app with a collection of Ukrainian laws.  
+      **Challenges:** Worked on a large DB, a sophisticated webview with custom CSS and JS, and UI widgets.  
+      **App:** [Google Play](https://play.google.com/store/apps/details?id=ua.ligazakon)  
+    - **Kinopoisk for Android:** Contributed to the maintenance and development of new features for the **Kinopoisk** app.  
+      **App:** [Google Play](https://play.google.com/store/apps/details?id=ru.kinopoisk)
 
-- **Languages (basic knowledge/have some experience):** Swift, JS/Typescript (frontend and NodeJS), Golang, C/C++
+  - **Junior Java Developer** at **NCube Ltd** — Aug 2011 – Jan 2012  
+    Worked on undisclosed projects under NDA.
 
-- **Development tools:** IntellyJ Idea (Android Studio), XCode, Eclipse, Vim
-- **Programming theory:**
-  - Basic algorithms and data structures
-  - GoF patterns
-  - OOP design principles
-  - Basics of functional programming
-- **Strong knowledge of:**
-  - Core Java/Kotlin
-  - Android SDK
-  - Mobile apps architeture
-  - REST clients
-- **Has experience in/with:**
-  - **Testing/TDD:**  Junit, Mockito, Robolectric, AssertJ, Cuckoo
-  - **DB:**  SQL, JDBC, NoSQL (Mongo, Firebase)
-  - **Text processing tools:**  RegExp
-  - **Java concurrency**
-  - **Reactive programming:**   RxJava, RxAndroid, RxSwift
-  - **User interfaces:** Android Standard UI elements, AWT, Swing, Java2D, Qt, JS(Bootstrap, Angular)
-  - **Android app architectures:** MVP, MVVM, Flux, Clean Architecture, etc
-  - **Build tools:** Gradle, Maven, Fastlane
-  - **Version control:** GIT, SVN
-  - **Web:** HTML, CSS, JavaScript (on basic level)
-  - **DI:** Dagger *, Android Annotations, Guice, Koin
-  - **Graphic editing:** basic skils
-  - **CI:**  Jenkins/Pipeline, docker
-  - **Network communication:**  REST clients (Retrofit, OkHttp, Apache HTTP client), GSON
-  - **Hybrid mobile frameworks:** ReactNative
+  ## Developers community
+  - **Lecturer of Software testing course** at NTUU "KPI" (as a volunteer)
+  - **Moderator** at [KyivAndroidDevClub](http://kyivandroid.org.ua/)
+  - **Speaker** at
+      - [KyivAndroidDevClub](http://kyivandroid.org.ua/) meetups
+      - [Stanfy MadCode](https://www.facebook.com/MadCodeMeetup/) webinars
+      - [GDG DevFest 2016](https://devfest.gdg.org.ua/speakers/23/)
+      - [Dev at work: Mobile meetup](http://mobile.devatwork.net/)
 
-- **Agile frameworks:** Scrum
+  ## Languages
+  - **English** Professional working proficiency
+  - **Ukrainian** Native or bilingual proficiency
 
-- **Worked in these environments:** Mac OS X, Linux (Ubuntu), Windows
+  ## Education
+
+  - National Technical University of Ukraine 'Kyiv Polytechnic Institute.'
+  Master, Computer Science, 2007 - 2013, Graduated with honors
+
+  ## Personal details
+
+  **Birthday**    April 06, 1990
+
+  ## Tech skills
+
+  - **Main language:** Java/Kotlin, JS/TS
+
+  - **Languages (basic knowledge/have some experience):** Swift, Golang, C/C++
+
+  - **Development tools:** IntellyJ Idea (Android Studio, Web Storm), XCode, Eclipse, Vim
+  - **Programming theory:**
+    - Basic algorithms and data structures
+    - GoF patterns
+    - OOP design principles
+    - Basics of functional programming
+  - **Strong knowledge of:**
+    - Core Java/Kotlin
+    - Android SDK
+    - Mobile apps architeture
+    - REST clients
+  - **Has experience in/with:**
+    - **Testing/TDD:**  Junit, Mockito, Robolectric, AssertJ, Cuckoo
+    - **DB:**  SQL, JDBC, NoSQL (Mongo, Firebase)
+    - **Text processing tools:**  RegExp
+    - **Java concurrency**
+    - **Reactive programming:**   RxJava, RxAndroid, RxSwift
+    - **User interfaces:** Android Standard UI elements, AWT, Swing, Java2D, Qt, JS(Bootstrap, Angular)
+    - **Android app architectures:** MVP, MVVM, Flux, Clean Architecture, etc
+    - **Build tools:** Gradle, Maven, Fastlane
+    - **Version control:** GIT, SVN
+    - **Web:** HTML, CSS, JavaScript (on basic level)
+    - **DI:** Dagger *, Android Annotations, Guice, Koin
+    - **Graphic editing:** basic skils
+    - **CI:**  Jenkins/Pipeline, docker
+    - **Network communication:**  REST clients (Retrofit, OkHttp, Apache HTTP client), GSON
+    - **Hybrid mobile frameworks:** ReactNative
+
+  - **Agile frameworks:** Scrum
+
+  - **Worked in these environments:** Mac OS X, Linux (Ubuntu), Windows
